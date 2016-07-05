@@ -2,3 +2,5 @@
 *.pyc
 *.pyo
 build/bdist.linux-x86_64/
+.gitignore
+.idea
