@@ -1,9 +1,0 @@
-setup.py
-Calculator.egg-info/PKG-INFO
-Calculator.egg-info/SOURCES.txt
-Calculator.egg-info/dependency_links.txt
-Calculator.egg-info/not-zip-safe
-Calculator.egg-info/requires.txt
-Calculator.egg-info/top_level.txt
-calc_2_1/__init__.py
-calc_2_1/calc_2_1.py
