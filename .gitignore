@@ -1,4 +1,4 @@
-.idea
+.idea/
 *.pyc
 *.pyo
 build/bdist.linux-x86_64/
