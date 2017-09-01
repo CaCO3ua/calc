@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 
 @app.route('/')
-def my_form():
+def form():
     return render_template("index.html")
 
 
